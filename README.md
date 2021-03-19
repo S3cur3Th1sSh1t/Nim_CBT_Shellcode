@@ -1,2 +1,5 @@
 # Nim_CBT_Shellcode
- NativePayload_CallBackTechniques ported to Nim
+
+Some CallBack-Techniques for shellcode execution ported to Nim.
+
+The code templates were taken from https://github.com/S4R1N/AlternativeShellcodeExec, credit goes to [S4R1N](https://github.com/S4R1N)
